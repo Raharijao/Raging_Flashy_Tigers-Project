@@ -34,7 +34,7 @@ Our goal is to render 3D blender models/ animation through the CloudyCluster ser
 
 ## Our great mentors: 
 - Boyd Wylson
-- Dr.Jacqueline Jackson
+- Dr. Jacqueline M. Jackson
 
 
 
