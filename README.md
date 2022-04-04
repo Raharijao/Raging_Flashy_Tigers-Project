@@ -1,3 +1,6 @@
+
+![“Raging Flashy Tigers”](https://user-images.githubusercontent.com/78986606/161546049-facb2423-dbaa-4ec5-b0d3-ac6237a246df.png)
+
 # Raging_Flashy_Tigers-Project
 Team project for HackHPC@ADMI22
 
