@@ -30,6 +30,10 @@ Team project for HackHPC@ADMI22
 
 Our goal is to render 3D blender models/ animation through the CloudyCluster server, in order to shorten rendering time.
 
+# Our Presentation
+
+[“Raging Flashy Tigers”.pdf](https://github.com/Raharijao/Raging_Flashy_Tigers-Project/files/8413226/Raging.Flashy.Tigers.pdf)
+
 
 # Resources
 
