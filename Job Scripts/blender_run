@@ -1,0 +1,28 @@
+#!/bin/bash
+
+#Uncomment this section if no thread option fails
+##CC -gcpit c2-standard-2
+
+#CC -gcpit c2-standard-2
+
+#SBATCH -N 2
+##SBATCH --ntasks-per-node=2
+
+#Need to change the location of the shared FS to the name you specified in the CloudyCluster creation wizard when launching the cluster
+export SHARED_FS_NAME=/mnt/orangefs
+
+
+#Uncomment this section for use with openMPI
+module add openmpi/3.0.0
+
+#Uncomment this section for use with mpich
+#module add mpich/3.2
+
+cd $SHARED_FS_NAME/blender/blenderjobs
+##$SHARED_FS_NAME/blender/blenderjobs/blender_render 
+ 
+# comment this section for animation model
+mpiexec blender -b file.blend -o $SHARED_FS_NAME/blender/frame_##### -E CYCLES -F png  -a 
+
+# uncomment this section if image 
+##blender -b file.blend -o $SHARED_FS_NAME/blender/frame_##### -F OPEN_EXR -f -2
