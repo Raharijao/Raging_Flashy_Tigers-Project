@@ -1,6 +1,8 @@
 
 ![“Raging Flashy Tigers”](https://user-images.githubusercontent.com/78986606/161546049-facb2423-dbaa-4ec5-b0d3-ac6237a246df.png)
 
+
+
 # Raging_Flashy_Tigers-Project
 Team project for HackHPC@ADMI22
 
@@ -23,12 +25,17 @@ Our goal is to render 3D blender models/ animation through the CloudyCluster ser
 
 # Resources
 
+- GCP
+- CCQ
 - Python
 - Blender
+- Paramiko
 - CloudyCluster
 - Visual code studio
+- Open OnDemand
 
-# We would like to send a special thanks to ADMI and Omnibond for hosting the 2022 HackHPC Hack-A-Thon. We would also like to acknowledge the hosts for making this hackathon possible: 
+# We would like to send a special thanks to ADMI and Omnibond for hosting the 2022 HackHPC Hack-A-Thon.
+- We would also like to acknowledge the hosts for making this hackathon possible: 
 - Boyd Wilson (Omnibond)
 - Je’aime Powell (Texas Advanced Computing Center) 
 - Amy Cannon (Omnibond)
