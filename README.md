@@ -1,13 +1,17 @@
 
 ![“Raging Flashy Tigers”](https://user-images.githubusercontent.com/78986606/161546049-facb2423-dbaa-4ec5-b0d3-ac6237a246df.png)
 
-![IMG_5453](https://user-images.githubusercontent.com/12969811/161632369-8f65f02b-5f76-44c1-8a8e-273761ada5b0.jpeg)
 
 
 # Raging_Flashy_Tigers-Project
 Team project for HackHPC@ADMI22
 
+
 # Team project for HackHPC@ADMI22: Team Raging_Flashy_Tigers.
+
+
+![IMG_5453](https://user-images.githubusercontent.com/12969811/161632680-832d336e-bd93-4109-bc78-45d82530377c.jpeg)
+
 
 ## Raging Flashy Tigers: Memebers:
 - Andrianina Raharijao
@@ -16,13 +20,16 @@ Team project for HackHPC@ADMI22
 - John Cabrera 
 - Sofiyah Afolabi
 
+
 ## Our great mentors: 
 - Boyd Wylson
 - Dr. Jacqueline M. Jackson
 
+
 # About us.
 
 Our goal is to render 3D blender models/ animation through the CloudyCluster server, in order to shorten rendering time.
+
 
 # Resources
 
@@ -34,6 +41,7 @@ Our goal is to render 3D blender models/ animation through the CloudyCluster ser
 - CloudyCluster
 - Visual code studio
 - Open OnDemand
+
 
 # We would like to send a special thanks to ADMI and Omnibond for hosting the 2022 HackHPC Hack-A-Thon.
 - We would also like to acknowledge the hosts for making this hackathon possible: 
