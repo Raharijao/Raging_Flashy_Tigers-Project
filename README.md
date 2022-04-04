@@ -1,6 +1,7 @@
 
 ![“Raging Flashy Tigers”](https://user-images.githubusercontent.com/78986606/161546049-facb2423-dbaa-4ec5-b0d3-ac6237a246df.png)
 
+![IMG_5453](https://user-images.githubusercontent.com/12969811/161632369-8f65f02b-5f76-44c1-8a8e-273761ada5b0.jpeg)
 
 
 # Raging_Flashy_Tigers-Project
